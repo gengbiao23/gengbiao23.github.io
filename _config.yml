@@ -7,9 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Qiu's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Di Qiu"
+name                     : &name "Biao Geng"
 description              : &description "a third year undergraduate student from Peking University"
 url                      : https://qiudi233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +79,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Qiu（邱荻）"
+  name             : "Biao Geng（耿彪）"
   avatar           : "qiudi.png"
-  bio              : "Peking University"
-  location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
